@@ -1,0 +1,33 @@
+The BART-large-mnli model was validated with 452 text responses and the accuracy was 97.79%.
+Dataset consisted of,
+Number of positive text responses = 250
+Number of negative text responses = 202
+
+The detailed description about the performance of the model is mentioned below:
+
+Classification report:
+==========================================================
+precision    recall  f1-score   support
+
+    negative       0.96      0.99      0.98       202
+    positive       0.99      0.97      0.98       250
+
+    accuracy                           0.98       452
+   macro avg       0.98      0.98      0.98       452
+weighted avg       0.98      0.98      0.98       452==========================================================
+
+==========================================================
+True Positives (TP): 242
+False Positives (FP): 2
+True Negatives (TN): 200
+False Negatives (FN): 8
+==========================================================
+
+==========================================================
+Accuracy: 97.79%
+Sensitivity: 0.97
+Specificity: 0.99
+Precision: 0.99
+Recall: 0.97
+F1-Score: 0.98
+==========================================================

@@ -1,0 +1,453 @@
+,user_opinions,sentiment,Predicted_Sentiment
+0,"Actually, Kinematics is the detailed structure of the robot arm. It helps to describe the position of the end effecter with reference to the base point. ",positive,positive
+1,The interconnection of the lecture series was good,positive,positive
+2,The movement of the robot arm end effector with reference to the base point,positive,positive
+3,Practical based case study is proper,positive,positive
+4,Actively engaged with the material and listened during the lecture,positive,positive
+5,"Yes, I solved to develop DH table for manipulator",positive,positive
+6,It can be acceptable ,positive,positive
+7,He explained theory through case based study,positive,positive
+8,It was good,positive,positive
+9,It was average,positive,positive
+10,"He asked some practical based question, which were useful",positive,positive
+11,Thank you for your understanding,positive,positive
+12,Frequently asked some practical based questions,positive,positive
+13,Learning centered education ,positive,positive
+14,"Yes, It oriented to the learning with self study",positive,positive
+15,"It was actually good, by the way",positive,positive
+16,I learned a lot from the lecture,positive,positive
+17,We learned many things through the discussions in the class,positive,positive
+18,The professor encouraged the discussion with him and the peers,positive,positive
+19,Thank you for your understanding,positive,positive
+20,Thank you for your suggestions,positive,positive
+21,Thank you very much,positive,positive
+22,Thanks for saying that,positive,positive
+23,Yeah that is actually a good advice,positive,positive
+24,Really that was a good suggestion ,positive,positive
+25,The lecture was more towards practical based that helped me a lot to understand the real word application of the theory,positive,positive
+26,It is practical based,positive,positive
+27,Yeah the lecture contents were good,positive,positive
+28,The lecture experience was good,positive,positive
+29,"No worries, thank you for your suggestions",positive,positive
+30,That study tip is really useful,positive,positive
+31,The interconnection of the lecture series was well-structured.,positive,positive
+32,Practical case studies were effectively integrated.,positive,positive
+33,I was actively engaged with the material throughout the lecture.,positive,positive
+34,The lecture was acceptable and informative.,positive,positive
+35,Theory was explained clearly through case-based studies.,positive,positive
+36,"Overall, the lecture was good.",positive,positive
+37,"The lecture quality was average, but still beneficial.",positive,positive
+38,Practical-based questions were useful and thought-provoking.,positive,positive
+39,Thank you for your understanding and support.,positive,positive
+40,The frequent practical questions helped reinforce the concepts.,positive,positive
+41,The focus on learning-centered education was evident.,positive,positive
+42,The lecture encouraged self-study and independent learning.,positive,positive
+43,It was actually a good lecture.,positive,positive
+44,I learned a lot from the session.,positive,positive
+45,Classroom discussions were very informative.,positive,positive
+46,The professor encouraged interaction with both him and peers.,positive,positive
+47,Thank you for your understanding and patience.,positive,positive
+48,Thank you for your helpful suggestions.,positive,positive
+49,Thank you very much for the insightful lecture.,positive,positive
+50,Thanks for the valuable feedback.,positive,positive
+51,That advice was truly beneficial.,positive,positive
+52,The suggestion was really good and helpful.,positive,positive
+53,The practical focus of the lecture helped me understand real-world applications.,positive,positive
+54,The lecture had a strong practical orientation.,positive,positive
+55,The lecture content was good and relevant.,positive,positive
+56,"Overall, the lecture experience was positive.",positive,positive
+57,"No worries, thank you for your suggestions.",positive,positive
+58,That study tip is really useful and appreciated.,positive,positive
+59,"Ok I'm ready, let's talk about the lecture",positive,positive
+60,"Hi, it was good.",positive,positive
+61,Studied about Markov Process.,positive,positive
+62,"Markov chain is related to the dependent probability, but when it is a Markov chain, the next state only depends on the previous state.",positive,negative
+63,I understood very clearly.,positive,positive
+64,The material was same as before. All the previous lectures had detailed lecture materials.,positive,positive
+65,The state of raining tomorrow only depending on the state of raining today. This is the dependency.,positive,negative
+66,He had done some tutorials and the existing findings.,positive,positive
+67,The lecture was interesting because it had covered some amazing Mathematical concepts.,positive,positive
+68,"Studying Time series and Stochastic processes, helps in understanding statistical models as well as forecasting techniques.",positive,positive
+69,I didn't have any inconvenience as the lecturer was very friendly and the module was well structured as well as interesting.,positive,positive
+70,"In a case where the Markov chain is needed to be applied, and find the probability, I can distinguish such situations and do the methodologies I studied.",positive,positive
+71,There were some discussions about infinity and those were insightful.,positive,positive
+72,"The stock market and weather, in some ways, depends on the time series and this can be relatable.",positive,positive
+73,Yes he was covering the syllabus on time.,positive,positive
+74,"Yes, sufficient materials were given as PDFs including lecture notes, tutorials, and past papers.",positive,positive
+75,Yes it was fully covered.,positive,positive
+76,"Yes, there were simple and complicated examples, which made understanding easier.",positive,positive
+77,Really good. Got lot of experiences for my future career,positive,positive
+78,How to handle the motor drives with STM microcontroller,positive,positive
+79,Learned bimanual motor controlling STM32 microcontroller according to the control system,positive,positive
+80,we were advised to work with ELMO motor drive. It was a challenge to control the EC motors using ELMO motor drive,positive,negative
+81,Not much covered all the things. We had to find our own methods,positive,negative
+82,We can use this bimanual coordination to help the paralyzed patients ,positive,positive
+83,Yes. mentioned some of them.,positive,positive
+84,This method can be applied for different scenarios like controlling two motors parallelly,positive,positive
+85,These are all I learned,positive,positive
+86,Yes. Lecture series is connected series. the final outcome is to create a physical design using bimanual coordination,positive,positive
+87,Yes. We discussed lot of applications and got experiences as well,positive,positive
+88,really good,positive,positive
+89,yes. got clear instructions when we learned it,positive,positive
+90,she did properly from beginning to end,positive,positive
+91,she appreciated every time our work and encouraged us,positive,positive
+92,She is kind and always say feel free to ask questions,positive,positive
+93,really good,positive,positive
+94,answering questions and engaging frequently is good,positive,positive
+95,no any inconvenience,positive,positive
+96,always interact with students,positive,positive
+97,it is very effective,positive,positive
+98,"when we found a trouble in any concept, she explained it",positive,negative
+99,really good. explained lot,positive,positive
+100,We studied about control systems,positive,positive
+101,We learnt lot during the lecture,positive,positive
+102,Clear and engaging presentation.,positive,positive
+103,Well-organized content.,positive,positive
+104,Interactive and student-friendly.,positive,positive
+105,Thorough explanations of complex topics.,positive,positive
+106,Encouraged open discussion.,positive,positive
+107,Practical examples and applications.,positive,positive
+108,Timely and efficient delivery.,positive,positive
+109,Helpful and approachable professor.,positive,positive
+110,Excellent use of visual aids.,positive,positive
+111,Encouraged critical thinking.,positive,positive
+112,Effective time management.,positive,positive
+113,Real-world case studies.,positive,positive
+114,Strong connection with students.,positive,positive
+115,Promptly addressed questions.,positive,positive
+116,Encouraged active participation.,positive,positive
+117,Provided useful handouts and materials.,positive,positive
+118,Created a positive learning environment.,positive,positive
+119,Inspired interest in the subject.,positive,positive
+120,He gave us some insights to think about and it was helpful.,positive,positive
+121,Yes they were useful.,positive,positive
+122,Time series and stochastics can relate to the daily problems and they help in solving them.,positive,positive
+123,I didn't have any inconvenience.,positive,positive
+124,"Yes, application such as weather forecast is said as example. ",positive,positive
+125,"He was coming on time, finished the syllabus within time and had concerns for every student.",positive,positive
+126,"Yes, they were given often.",positive,positive
+127,He encouraged everyone to ask questions and gave time for it.,positive,positive
+128,Lecturer was giving a freedom so that many will participate.,positive,positive
+129,Often during the lecture. He appreciates asking questions any time as well as answering his questions.,positive,positive
+130,Well that was good,positive,positive
+131,He pauses between the lectures often to listen to students' concerns.,positive,positive
+132,They helped us in having a clear idea and studying the techniques.,positive,positive
+133,"As the student responses were positive, he continued his way of teaching.",positive,positive
+134,"Pausing while the lecture, asking students for their questions, actively and positively answering the questions of the students.",positive,positive
+135,I was encouraged to ask questions after the lectures to him and study well.,positive,positive
+136,Vey much accessible.,positive,positive
+137,He wasn't restricting anyone asking any questions. ,positive,positive
+138,"Yes, it was consistent and fast enough to learn properly.",positive,positive
+139,"Yes, he was teaching in an understandable pace and re explained the topics when asked or needed.",positive,positive
+140,Black and white board as well as the PDFs.,positive,positive
+141,Yes he was using a mic so that everyone can hear it.,positive,positive
+142,The lecture was very clear,positive,positive
+143,"Yes, he did examples when they are hard concepts.",positive,negative
+144,The lecture was very useful.,positive,positive
+145,This lecture series can help in understanding some interesting real life scenarios.,positive,positive
+146,No inconveniences.,positive,positive
+147,He explained again and again until I cleared the doubts.,positive,positive
+148,He was considering them and trying to interact with the students more.,positive,positive
+149,He covered various areas of examples.,positive,positive
+150,Clear and engaging presentation.,positive,positive
+151,Well-organized content.,positive,positive
+152,Interactive and student-friendly.,positive,positive
+153,Thorough explanations of complex topics.,positive,positive
+154,Encouraged open discussion.,positive,positive
+155,Practical examples and applications.,positive,positive
+156,Timely and efficient delivery.,positive,positive
+157,Helpful and approachable professor.,positive,positive
+158,Excellent use of visual aids.,positive,positive
+159,Encouraged critical thinking.,positive,positive
+160,Effective time management.,positive,positive
+161,Real-world case studies.,positive,positive
+162,Strong connection with students.,positive,positive
+163,Promptly addressed questions.,positive,positive
+164,Encouraged active participation.,positive,positive
+165,Provided useful handouts and materials.,positive,positive
+166,Created a positive learning environment.,positive,positive
+167,Inspired interest in the subject.,positive,positive
+168,Clear and concise language.,positive,positive
+169,Encouraged collaboration among students.,positive,positive
+170,Engaging storytelling technique.,positive,positive
+171,Strong grasp of subject matter.,positive,positive
+172,Provided additional resources for learning.,positive,positive
+173,Fostered a supportive classroom atmosphere.,positive,positive
+174,Made complex topics accessible.,positive,positive
+175,Used humor to keep the class engaged.,positive,positive
+176,Showed enthusiasm for the subject.,positive,positive
+177,Encouraged out-of-the-box thinking.,positive,positive
+178,Demonstrated practical applications.,positive,positive
+179,Used diverse teaching methods.,positive,positive
+180,Provided real-time feedback.,positive,positive
+181,Allowed time for reflection.,positive,positive
+182,Created an inclusive environment.,positive,positive
+183,Demonstrated patience with questions.,positive,positive
+184,Emphasized key points effectively.,positive,positive
+185,Incorporated multimedia resources.,positive,positive
+186,Maintained a steady pace.,positive,positive
+187,Provided a clear summary at the end.,positive,positive
+188,Encouraged peer learning.,positive,positive
+189,Emphasized critical analysis.,positive,negative
+190,Adapted to student needs.,positive,positive
+191,Used effective questioning techniques.,positive,positive
+192,Connected theory to practice.,positive,positive
+193,Demonstrated subject passion.,positive,positive
+194,Fostered a growth mindset.,positive,positive
+195,Used relatable examples.,positive,positive
+196,Incorporated student feedback.,positive,positive
+197,Created a safe space for questions.,positive,positive
+198,Reinforced learning through repetition.,positive,positive
+199,Encouraged curiosity.,positive,positive
+200,Provided a structured approach.,positive,positive
+201,Used case studies effectively.,positive,positive
+202,Emphasized the importance of the subject.,positive,positive
+203,Created engaging activities.,positive,positive
+204,Used effective transitions between topics.,positive,positive
+205,Highlighted important concepts.,positive,positive
+206,Created a motivating learning environment.,positive,positive
+207,Used analogies to explain concepts.,positive,positive
+208,Encouraged self-directed learning.,positive,positive
+209,Provided real-world connections.,positive,positive
+210,Gave constructive feedback.,positive,positive
+211,Used interactive tools effectively.,positive,positive
+212,Created a collaborative atmosphere.,positive,positive
+213,Encouraged student presentations.,positive,positive
+214,Emphasized problem-solving skills.,positive,positive
+215,Created clear learning objectives.,positive,positive
+216,Encouraged reflective thinking.,positive,positive
+217,Used technology effectively.,positive,positive
+218,Provided diverse perspectives.,positive,positive
+219,Encouraged critical discussions.,positive,positive
+220,Emphasized application of knowledge.,positive,positive
+221,Created an engaging narrative.,positive,positive
+222,Used diagrams effectively.,positive,positive
+223,Provided practical assignments.,positive,positive
+224,Encouraged independent research.,positive,positive
+225,Used real-life scenarios.,positive,negative
+226,Demonstrated clarity in explanations.,positive,positive
+227,Provided a supportive environment.,positive,positive
+228,Used effective examples.,positive,positive
+229,Created a dynamic learning experience.,positive,positive
+230,Encouraged active listening.,positive,positive
+231,Provided opportunities for hands-on learning.,positive,positive
+232,Used thought-provoking questions.,positive,positive
+233,Emphasized understanding over memorization.,positive,positive
+234,Created a respectful learning environment.,positive,positive
+235,Encouraged analytical thinking.,positive,positive
+236,Used engaging teaching aids.,positive,positive
+237,Provided detailed explanations.,positive,positive
+238,Emphasized interdisciplinary connections.,positive,positive
+239,Created a learner-centered approach.,positive,positive
+240,Encouraged personal growth.,positive,positive
+241,Provided a balanced perspective.,positive,positive
+242,Used effective storytelling.,positive,positive
+243,Provided step-by-step instructions.,positive,positive
+244,Encouraged lifelong learning.,positive,positive
+245,Emphasized continuous improvement.,positive,positive
+246,Used real-time examples.,positive,positive
+247,Fostered a sense of community.,positive,positive
+248,Encouraged student-led discussions.,positive,positive
+249,Provided a holistic learning experience.,positive,positive
+250,The lecture was disorganized.,negative,negative
+251,The slides were unclear.,negative,negative
+252,The pace was too fast.,negative,negative
+253,The lecturer was hard to understand.,negative,negative
+254,The content was not relevant.,negative,negative
+255,The examples were confusing.,negative,negative
+256,The room was too noisy.,negative,negative
+257,The lecture was boring.,negative,negative
+258,The lecturer was unprepared.,negative,negative
+259,There was too much information.,negative,negative
+260,The explanations were vague.,negative,negative
+261,The lecturer didn't engage with students.,negative,negative
+262,The lecture was repetitive.,negative,negative
+263,The content was outdated.,negative,negative
+264,The lecturer read from the slides.,negative,positive
+265,The room was too cold.,negative,negative
+266,The lecture started late.,negative,negative
+267,The lecture ended early.,negative,negative
+268,The microphone didn't work properly.,negative,negative
+269,The lecturer was monotone.,negative,negative
+270,The visuals were poor quality.,negative,negative
+271,The lecture was too technical.,negative,negative
+272,The lecturer didn't answer questions.,negative,negative
+273,The lecture lacked structure.,negative,negative
+274,The content was too basic.,negative,negative
+275,The lecture was off-topic.,negative,negative
+276,The lecturer was dismissive.,negative,negative
+277,The handouts were missing.,negative,negative
+278,The lecture was too long.,negative,negative
+279,The lecturer was condescending.,negative,negative
+280,The lighting was too dim.,negative,negative
+281,The lecturer's handwriting was illegible.,negative,negative
+282,The lecture was not interactive.,negative,negative
+283,The lecturer was rude.,negative,negative
+284,The examples were irrelevant.,negative,negative
+285,The room was too hot.,negative,negative
+286,The lecture was hard to follow.,negative,negative
+287,The lecturer didn't provide notes.,negative,negative
+288,The lecture was poorly organized.,negative,negative
+289,The lecturer spoke too softly.,negative,negative
+290,The content was too complex.,negative,negative
+291,The lecture was not engaging.,negative,negative
+292,The lecturer was unapproachable.,negative,negative
+293,The lecture lacked depth.,negative,negative
+294,The lecturer was biased.,negative,negative
+295,The slides were cluttered.,negative,negative
+296,The lecture was too simplistic.,negative,negative
+297,The lecturer didn't summarize key points.,negative,negative
+298,The lecture was poorly timed.,negative,negative
+299,The lecturer was distracted.,negative,negative
+300,The examples were poorly chosen.,negative,negative
+301,The lecture was too abstract.,negative,negative
+302,The lecturer was not knowledgeable.,negative,negative
+303,The lecture was hard to hear.,negative,negative
+304,The content was repetitive.,negative,negative
+305,The lecturer didn't use visuals.,negative,negative
+306,The lecture was too theoretical.,negative,negative
+307,The lecturer didn't make eye contact.,negative,negative
+308,The lecture was not well-prepared.,negative,negative
+309,The lecturer was boring.,negative,negative
+310,The room was too bright.,negative,negative
+311,The lecture was not applicable.,negative,negative
+312,The lecturer was late.,negative,negative
+313,The lecture had too many tangents.,negative,negative
+314,The lecturer was unenthusiastic.,negative,negative
+315,The content was not well-explained.,negative,negative
+316,The lecturer didn't engage the audience.,negative,negative
+317,The lecture was poorly delivered.,negative,negative
+318,The lecturer was unresponsive.,negative,negative
+319,The lecture was too detailed.,negative,negative
+320,The lecturer was too casual.,negative,negative
+321,The content was too difficult.,negative,negative
+322,The lecturer didn't provide context.,negative,negative
+323,The lecture was too formal.,negative,negative
+324,The lecturer didn't provide examples.,negative,negative
+325,The lecture was confusing.,negative,negative
+326,The lecturer was too critical.,negative,negative
+327,The lecture lacked enthusiasm.,negative,negative
+328,The lecturer was unclear.,negative,negative
+329,The lecture was uninteresting.,negative,negative
+330,The lecturer was inconsistent.,negative,negative
+331,The lecture was too rigid.,negative,negative
+332,The lecturer was unprofessional.,negative,negative
+333,The content was not practical.,negative,negative
+334,The lecturer was too opinionated.,negative,negative
+335,The lecture was too short.,negative,negative
+336,The lecturer didn't encourage participation.,negative,negative
+337,The lecture was irrelevant.,negative,negative
+338,The lecturer was unorganized.,negative,negative
+339,The lecture was not engaging.,negative,negative
+340,The lecturer was too focused on details.,negative,negative
+341,The lecture was poorly paced.,negative,negative
+342,The lecturer was too theoretical.,negative,negative
+343,The content was not applicable.,negative,negative
+344,The lecturer was too vague.,negative,negative
+345,The lecture was too fragmented.,negative,negative
+346,The lecturer was unmotivated.,negative,negative
+347,The lecture was not interactive.,negative,negative
+348,The lecturer didn't use real-world examples.,negative,negative
+349,The lecture was too dry.,negative,negative
+350,The lecturer was too fast-paced.,negative,negative
+351,The lecture lacked clarity.,negative,negative
+352,The lecturer didn't provide feedback.,negative,negative
+353,The lecture was not well-researched.,negative,negative
+354,The lecturer was too technical.,negative,negative
+355,The lecture was too simplistic.,negative,negative
+356,The lecturer was too disorganized.,negative,negative
+357,The lecture lacked coherence.,negative,negative
+358,The lecturer didn't summarize the lecture.,negative,negative
+359,The lecture was too focused on theory.,negative,negative
+360,The lecturer didn't provide enough detail.,negative,negative
+361,The lecture was not well-structured.,negative,negative
+362,The lecturer was too slow.,negative,negative
+363,The lecture was not engaging.,negative,negative
+364,The lecturer was too general.,negative,negative
+365,The lecture lacked practical examples.,negative,negative
+366,The lecturer was too focused on slides.,negative,negative
+367,The lecture was not dynamic.,negative,negative
+368,The lecturer didn't encourage questions.,negative,negative
+369,The lecture was too one-sided.,negative,negative
+370,The lecturer was too focused on facts.,negative,negative
+371,The lecture was not well-paced.,negative,negative
+372,The lecturer was too formal.,negative,negative
+373,The lecture lacked depth.,negative,negative
+374,The lecturer didn't engage the class.,negative,negative
+375,The lecture was too brief.,negative,negative
+376,The lecturer was too detached.,negative,negative
+377,The lecture was not engaging.,negative,negative
+378,The lecturer was too focused on theory.,negative,negative
+379,The lecture lacked interaction.,negative,negative
+380,The lecturer was too focused on details.,negative,negative
+381,The lecture was too one-dimensional.,negative,negative
+382,I couldn't understand the lecture well.,negative,negative
+383,The lecture was boring.,negative,negative
+384,I needed to clarify many things.,negative,negative
+385,It was not clear during my lecture.,negative,negative
+386,Lecture content was disorganized.,negative,negative
+387,Explanations were vague and unclear.,negative,negative
+388,Too much reliance on slides without elaboration.,negative,negative
+389,Interaction with students was minimal.,negative,negative
+390,Limited opportunity for questions and discussions.,negative,negative
+391,Key concepts were not adequately covered.,negative,negative
+392,The pace of the lecture was too fast.,negative,negative
+393,Practical examples were lacking.,negative,negative
+394,The professor's responses to queries were unsatisfactory.,negative,negative
+395,There was a lack of engagement from the professor.,negative,negative
+396,The lecture lacked structure and coherence.,negative,negative
+397,Important topics were glossed over.,negative,negative
+398,The professor's examples were irrelevant or confusing.,negative,negative
+399,No real-world applications were provided.,negative,negative
+400,The lecture failed to address common student difficulties.,negative,negative
+401,The professor did not adapt to students' understanding levels.,negative,negative
+402,Audio/visual aids were poor or malfunctioning.,negative,negative
+403,The pace was either too slow or too hurried.,negative,negative
+404,Handouts or supplementary materials were inadequate.,negative,negative
+405,Follow-up resources or readings were not suggested.,negative,negative
+406,The professor seemed unprepared or disorganized.,negative,negative
+407,Engagement strategies were ineffective or nonexistent.,negative,negative
+408,Key points were repeated without adding value.,negative,negative
+409,The lecture did not build on prior knowledge effectively.,negative,negative
+410,There was no clear summary or recap at the end.,negative,negative
+411,Student participation was not encouraged.,negative,negative
+412,Technical issues were not addressed promptly.,negative,negative
+413,The professor did not check for understanding.,negative,negative
+414,The lecture did not address diverse learning styles.,negative,negative
+415,There was a lack of clarity in the assignment or exam instructions.,negative,negative
+416,I was unable to follow up with the lecture.,negative,negative
+417,The course materials were not provided at the beginning.,negative,negative
+418,It was very difficult to follow up the lecture.,negative,negative
+419,The Professor was inaudible and it was very difficult to follow up the lecture.,negative,negative
+420,Lectures are insanely boring.,negative,negative
+421,Main issue is that there is no preparation for the midterm and final. ,negative,negative
+422,"As there is negative feedback in the class, unless you attend special sessions.",negative,negative
+423,The class was bad.,negative,negative
+424,There were no regular quizzes or tests.,negative,negative
+425,We haven't even got a practice test for mid-term and final exam.,negative,negative
+426,Every project given in the class were tried and failed.,negative,negative
+427,There is no need to go for the lecture as the contents can be learned from the online as well.,negative,positive
+428,His lectures can get a bit boring with just the way he talks.,negative,negative
+429,Lectures were dull and hard to follow.,negative,negative
+430,Presentation slides are not organized properly and it was very hard to learn from the slides.,negative,negative
+431,It is very difficult to take the notes in the class.,negative,negative
+432,His presentation is not good enough to follow the lecture. ,negative,negative
+433,Do not take this class if you want a professor who respects his students.,negative,negative
+434,The mid term and final exams were really hard and sometimes it feels like got lost.,negative,negative
+435,He usually don't teach the material in depth and h9is lectures were boring.,negative,negative
+436,Her lectures were dry.,negative,negative
+437,"To my opinion, the lectures are not helpful in learning the subject.",negative,negative
+438,The assignments were really hard to pass.,negative,negative
+439,I don't like the way that this professor is teaching.,negative,negative
+440,The class was very dull and I don't recommend the future students to take this class if they are looking for a good GPA.,negative,negative
+441,The lectures could have been more explanatory.,negative,negative
+442,The lectures were sometimes annoying due to the language of the professor.,negative,negative
+443,We could not finish the lectures on time.,negative,negative
+444,The presentation slides fonts are annoying to read.,negative,negative
+445,The presentation slide diagrams were not clear enough.,negative,negative
+446,The professor does not hear the feedbacks of the students. ,negative,negative
+447,Most part of the lectures covered with advice and I think that is not appropriate for a university like lecture series. ,negative,negative
+448,I don't understand the most of the lectures since it was so complicated by the professor.,negative,negative
+449,The professor made the subject more complicated.,negative,negative
+450,The professor was not accessible after lectures.,negative,negative
+451,I could not make any clarifications about the lectures during the lecture.,negative,negative
